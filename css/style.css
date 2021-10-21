@@ -115,6 +115,10 @@ p {
   letter-spacing: 1.2px;
 }
 
+#title p {
+  margin-bottom: 1vh;
+}
+
 #img-div {
   width: 40%;
   max-width: 40vw;
