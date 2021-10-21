@@ -17,7 +17,7 @@ body {
   content: '';
   left: 0;
   right: 0;
-  width: 80%;
+  width: 60%;
   color: rgb(69, 69, 69, .3);
   background-color: rgb(143, 73, 22, .3);
   left: 0;
@@ -32,7 +32,7 @@ h1 {
   font-size: 6vh;
   text-align: center;
   text-transform: uppercase;
-  text-shadow: 2px 2px 5px rgb(0, 0, 0);
+  text-shadow: 2px 2px 5px rgb(143, 73, 22, .5);
   line-height: 1.4;
   padding: 0px 30px 0px 30px;
   margin: 0 0 1% 0;
@@ -44,7 +44,7 @@ h2 {
   font-weight: 600;
   font-size: 4.5vh;
   color: rgb(143, 73, 22);
-  text-shadow: 2px 2px 5px rgb(0, 0, 0);
+  text-shadow: 2px 2px 5px rgb(143, 73, 22, .5);
   letter-spacing: 1px;
   border-radius: 5px;
   padding-bottom: 2vw;
